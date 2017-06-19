@@ -1,0 +1,9 @@
+C:\01 Backup of Drive F\07 UVU Student\01 Spring 2017\CS 1400_602\project01\project01\bin\Debug\GUI Template.exe.config
+C:\01 Backup of Drive F\07 UVU Student\01 Spring 2017\CS 1400_602\project01\project01\obj\Debug\project01.csprojResolveAssemblyReference.cache
+C:\01 Backup of Drive F\07 UVU Student\01 Spring 2017\CS 1400_602\project01\project01\obj\Debug\project01.project01.resources
+C:\01 Backup of Drive F\07 UVU Student\01 Spring 2017\CS 1400_602\project01\project01\obj\Debug\project01.Properties.Resources.resources
+C:\01 Backup of Drive F\07 UVU Student\01 Spring 2017\CS 1400_602\project01\project01\obj\Debug\project01.csproj.GenerateResource.Cache
+C:\01 Backup of Drive F\07 UVU Student\01 Spring 2017\CS 1400_602\project01\project01\bin\Debug\GUI Template.exe
+C:\01 Backup of Drive F\07 UVU Student\01 Spring 2017\CS 1400_602\project01\project01\bin\Debug\GUI Template.pdb
+C:\01 Backup of Drive F\07 UVU Student\01 Spring 2017\CS 1400_602\project01\project01\obj\Debug\GUI Template.exe
+C:\01 Backup of Drive F\07 UVU Student\01 Spring 2017\CS 1400_602\project01\project01\obj\Debug\GUI Template.pdb
