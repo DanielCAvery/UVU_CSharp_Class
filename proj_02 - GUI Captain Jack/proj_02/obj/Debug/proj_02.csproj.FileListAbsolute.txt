@@ -1,0 +1,9 @@
+C:\01 Backup of Drive F\07 UVU Student\01 Spring 2017\CS 1400_602\proj_02\proj_02\bin\Debug\proj_02.exe.config
+C:\01 Backup of Drive F\07 UVU Student\01 Spring 2017\CS 1400_602\proj_02\proj_02\bin\Debug\proj_02.exe
+C:\01 Backup of Drive F\07 UVU Student\01 Spring 2017\CS 1400_602\proj_02\proj_02\bin\Debug\proj_02.pdb
+C:\01 Backup of Drive F\07 UVU Student\01 Spring 2017\CS 1400_602\proj_02\proj_02\obj\Debug\proj_02.csprojResolveAssemblyReference.cache
+C:\01 Backup of Drive F\07 UVU Student\01 Spring 2017\CS 1400_602\proj_02\proj_02\obj\Debug\proj_02.Main.resources
+C:\01 Backup of Drive F\07 UVU Student\01 Spring 2017\CS 1400_602\proj_02\proj_02\obj\Debug\proj_02.Properties.Resources.resources
+C:\01 Backup of Drive F\07 UVU Student\01 Spring 2017\CS 1400_602\proj_02\proj_02\obj\Debug\proj_02.csproj.GenerateResource.Cache
+C:\01 Backup of Drive F\07 UVU Student\01 Spring 2017\CS 1400_602\proj_02\proj_02\obj\Debug\proj_02.exe
+C:\01 Backup of Drive F\07 UVU Student\01 Spring 2017\CS 1400_602\proj_02\proj_02\obj\Debug\proj_02.pdb
